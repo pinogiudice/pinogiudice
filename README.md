@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pinogiudice, i'm a computer science italian teacher
 - 👀 I’m interested in communication apps especially TCP internet protocol
-- 🌱 I’m currently working on a server-client (vb.net application) recording client login in a local area network [srvprog.zip](https://github.com/pinogiudice/pinogiudice/files/9601500/srvprog.zip)
+- 🌱 I’m currently working on a server-client (vb.net application) recording client login in a local area network (uploaded both server and client)
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with somebody wishes help me to improve the apps
 - 📫 How to reach me postaprivata@pinogiudice.it
 
 <!---
